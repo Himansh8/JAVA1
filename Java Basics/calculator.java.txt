@@ -1,0 +1,19 @@
+packege java.util.*;
+
+    class calculator{
+        public static void main(Sting args[]){
+            Scanner sc = new Scanner(System.in);
+            int x=sc.nextInt();
+            int a=sc.nextInt();
+            int b=sc.nextInt();
+            switch(x){
+                case 1: int sum;
+                sum=a+b;
+                system.out.println(sum);
+                break;
+                case 2: int sub;
+                system.out.println(sub);
+                break;
+            }
+        } 
+    }
